@@ -12,10 +12,10 @@ Gaining an understanding of the challenges the mental health community faces and
 
 ## Partners
 
-2040 Partners for Health
-Well Being Trust
-National Alliance on Mental Illness
-Mental Health Colorado
-The Colorado School of Medicine
+- 2040 Partners for Health
+- Well Being Trust
+- National Alliance on Mental Illness
+- Mental Health Colorado
+- The Colorado School of Medicine
 
 
